@@ -1,0 +1,36 @@
+[
+  {
+    "category": "gaming",
+    "message": "Buy the latest console!",
+    "targeting": {
+      "age_range": [15, 35],
+      "interests": ["gaming", "tech"]
+    }
+  },
+  {
+    "category": "finance",
+    "message": "Invest in your future with our new savings account!",
+    "targeting": {
+      "age_range": [25, 65],
+      "interests": ["finance", "business"]
+    }
+  },
+  {
+    "category": "travel",
+    "message": "Escape to paradise with our holiday packages!",
+    "targeting": {
+      "age_range": [18, 70],
+      "interests": ["travel", "food"]
+    }
+  }
+]
+
+// This JSON file represents a collection of ads available for targeting.
+// Each ad has the following structure:
+// - category: The general category of the ad
+// - message: The actual ad content to be displayed
+// - targeting: Criteria for determining which users should see this ad
+//   - age_range: An array of two integers representing the min and max age for targeting
+//   - interests: An array of interests that the ad is relevant to
+// In a real-world scenario, this would be a much larger dataset with more diverse ads
+// and potentially more complex targeting criteria.

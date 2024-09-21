@@ -1,0 +1,21 @@
+{
+  "user1": {
+    "age": 25,
+    "interests": ["tech", "gaming", "sports"]
+  },
+  "user2": {
+    "age": 35,
+    "interests": ["finance", "travel", "food"]
+  },
+  "user3": {
+    "age": 18,
+    "interests": ["gaming", "music", "movies"]
+  }
+}
+
+// This JSON file represents a simplified user database.
+// Each user has a unique ID (e.g., "user1") and associated profile data:
+// - age: The user's age (integer)
+// - interests: An array of strings representing the user's interests
+// In a real-world scenario, this would be replaced by a proper database
+// and would include many more users and potentially more detailed profile information.
